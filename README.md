@@ -2,8 +2,8 @@
 
 Software engineer working on **computer vision and video analytics** - C++, C#, real-time image processing.
 
-I like things that are low-level, a bit underground, and have an artistic side:
-AI, video games, generative art, systems programming.
+I like underground and artistic things:
+AI, video games, art, systems programming...
 
 ### What you'll find here
 
