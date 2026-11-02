@@ -11,6 +11,10 @@ AI, video games, art, systems programming...
 - 🎮 **Games & art** - creative coding, shaders, playful toys
 - ⚙️ **Low-level** - allocators, arbitrary-precision math, the stuff under the hood
 
+### Projects
+
+- [`streetscore`](https://github.com/youyou0/streetscore) - a street plays itself: people and vehicles tracked with YOLO pluck invisible strings, turning a crowd into music and light
+
 ### Older work
 
 - [`malloc`](https://github.com/youyou0/malloc) - a thread-safe buddy allocator in C, a drop-in replacement for libc `malloc`
