@@ -13,6 +13,7 @@ AI, video games, art, systems programming...
 
 ### Projects
 
+- [`ombres`](https://github.com/youyou0/ombres) - a shadow-puppet game played with your hands: the webcam reads your hand shapes and turns them into creatures. **[Play it in the browser](https://youyou0.github.io/ombres/)**
 - [`streetscore`](https://github.com/youyou0/streetscore) - a street plays itself: people and vehicles tracked with YOLO pluck invisible strings, turning a crowd into music and light
 
 ### Older work
